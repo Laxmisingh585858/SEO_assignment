@@ -1,0 +1,12 @@
+				Benefit of using meta tags
+
+Meta tags are important for search engine optimization (SEO). They help search engines understand your website and how it should appear in search results. Meta tags can also tell browsers how to display your website on different devices.
+Some benefits of using meta tags:
+ 
+Relevancy: Meta tags show search engines how relevant your page is to a user's query.
+
+Website display: Meta tags can ensure your website displays correctly for both desktop and mobile users.
+
+Search engine optimization: Meta tags, particularly the title tag and meta description, provide concise information about the content of a web page.
+
+Traffic and engagement rates: Meta tags can impact how many people will click through to your website.

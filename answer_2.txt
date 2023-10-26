@@ -1,0 +1,4 @@
+Favicon
+A favicon is a small icons/image displayed on the address bar, browser's tab, browser history, bookmark bar, etc. It is also known as a tab icon, website icon, URL icon, or a bookmark icon.
+
+The image of a favicon is in .ico file format. There are various file formats, but .ico format is supported by all the browsers.
